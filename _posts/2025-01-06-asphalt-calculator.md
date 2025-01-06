@@ -4,7 +4,6 @@ title:  "From Idea to Tool: How I Built an Asphalt Calculator with Code and AI"
 description: "From Idea to Tool: How I Built an Asphalt Calculator with Code and AI"
 author: codehao
 date:   2025-01-06 21:00:32 +0800
-categories: Calculator
 ---
 
 Recently, while browsing construction and DIY forums, I noticed a common question popping up again and again: **“How do I accurately calculate the amount of asphalt needed?”** Whether it’s for paving a driveway or building a parking lot, people wanted a quick and reliable way to estimate the required tons of asphalt and the associated costs. Manual calculations, however, are not only time-consuming but also prone to errors. That’s when an idea struck me: **Why not create an online tool to solve this problem?**
